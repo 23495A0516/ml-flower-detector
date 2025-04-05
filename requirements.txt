@@ -82,7 +82,7 @@ optree==0.13.0
 packaging==24.1
 pandas==2.2.3
 parso==0.8.4
-pillow==10.4.0
+Pillow==9.5.0
 platformdirs==4.3.6
 prompt_toolkit==3.0.48
 protobuf==4.25.5
